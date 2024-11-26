@@ -1,0 +1,13 @@
+{
+  "name": "basic_node_project",
+  "version": "1.0.0",
+  "description": "This is a basic node project that I created to learn the basics of node.js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
